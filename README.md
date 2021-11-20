@@ -4,10 +4,6 @@
   <img alt="Home Filmes" src="https://github.com/Iann-rst/Catalogo_Filmes/blob/main/github_image/filme1.jpg">
 </h1>
 
-<h1 align="center">
-  <img alt="Home Filmes2" src="https://github.com/Iann-rst/Catalogo_Filmes/blob/main/github_image/filme2.jpg">
-</h1>
-
 <h2 align="center">Página Favoritos</h2>
 
 <h1 align="center">
